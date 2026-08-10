@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Sakeel Noufas 👋
 
-<!--
-**Sakeel1406/Sakeel1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm a **MERN Full-Stack Developer** passionate about building dynamic web applications and crafting clean user interfaces using React.js and Node.js.
+- 🚀 Check out my projects:
+  - [Foodies](https://foodies-frontend-qe7j.onrender.com)
+  - [Vibeify](https://vibeify-ashy.vercel.app/)
+  - [Portfolio](https://sakeel1406.github.io/sakeel-noufas-Portfolio/)
+- 🛠️ **Tech Stack:** JavaScript, React.js, Node.js, Express, MongoDB, HTML, CSS.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakeel1406&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
