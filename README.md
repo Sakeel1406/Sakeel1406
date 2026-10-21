@@ -1,208 +1,107 @@
-<!-- ========================================================= --><!--             N.N. SAKEEL NOUFAS - PROFILE README            --><!--                    NEON DEVELOPER EDITION                  --><!-- ========================================================= --><!-- ====================== ANIMATED HEADER ================== --><div align="center"><img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FFF,100:FF007F&height=220&section=header&text=N.N.%20Sakeel%20Noufas&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=58"
-width="100%"
-alt="Animated neon profile banner"
-/>
+<!-- =========================================================
+     N.N. SAKEEL NOUFAS | NEON CYBERPUNK PROFILE
+     Theme: Neon Cyan | Electric Purple | Hot Pink
+========================================================== --><div align="center"><!-- CYBERPUNK HEADER --><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111C44,70:7B2CFF,100:00F7FF&height=230&section=header&text=SAKEEL%20NOUFAS&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20MERN%20STACK&descAlignY=60&descSize=16" alt="Neon Cyberpunk Header"/><br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+MERN+STACK+DEVELOPER;%3E+BUILDING+THE+FUTURE+WITH+CODE;%3E+CREATE.+INNOVATE.+REPEAT." alt="Cyberpunk animated typing"/><br/><br/>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+REST+APIs;Building+Modern+Web+Experiences;Always+Learning.+Always+Building."
-alt="Animated developer introduction"
-width="100%"
-/>
+<img src="https://img.shields.io/badge/STATUS-READY%20TO%20BUILD-00F7FF?style=for-the-badge&labelColor=050816" alt="Developer status"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-FF007F?style=for-the-badge&labelColor=050816" alt="Full stack focus"/></div>---
 
-  <br/>  <img src="https://komarev.com/ghpvc/?username=Sakeel1406&label=PROFILE%20VIEWS&color=7B2FFF&style=for-the-badge" alt="Profile views"/>  <img src="https://img.shields.io/github/followers/Sakeel1406?label=FOLLOWERS&style=for-the-badge&color=00F7FF&labelColor=111111" alt="GitHub followers"/>  <img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Opportunities-FF007F?style=for-the-badge&labelColor=111111" alt="Open to opportunities"/></div>---
+<!-- ABOUT -->"01 // DEVELOPER PROFILE"
 
-<!-- ======================== ABOUT ME ======================== -->👨‍💻 About Me
+const developer = {
+  name: "Sakeel Noufas",
+  username: "Sakeel1406",
+  role: "MERN Stack Developer",
+  location: "India",
+  frontend: ["HTML5", "CSS3", "JavaScript", "React.js"],
+  backend: ["Node.js", "Express.js"],
+  database: ["MongoDB"],
+  tools: ["Git", "GitHub", "VS Code"],
+  aiTools: ["ChatGPT", "Claude", "GitHub Copilot", "Gemini"],
+  mindset: "Learn. Build. Debug. Improve."
+};
 
-<img
-align="right"
-width="34%"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-alt="Developer coding animation"
-/>
+<div align="center">Building modern web experiences, one commit at a time.
 
-Hi! I'm Sakeel Noufas, a developer passionate about building modern, responsive, and user-friendly web applications.
-
-- 💻 Role: MERN Stack Developer
-- 🌱 Learning: Full-stack development and modern web technologies
-- ⚛️ Frontend: React.js, JavaScript, HTML5, CSS3
-- ⚙️ Backend: Node.js, Express.js
-- 🗄️ Database: MongoDB
-- 🔌 Interests: REST APIs, authentication, and full-stack applications
-- 🎨 UI Focus: Responsive layouts, clean interfaces, and animations
-- 🤖 AI Tools: ChatGPT, Claude, GitHub Copilot, Google Gemini
-- 🧩 Approach: Understand the code, solve problems, and keep improving
-- 🎯 Goal: Grow as a software developer and contribute to real-world projects
-
-<br clear="right"/>«💡 Ready to learn, build, contribute, and grow!»
-
----
-
-<!-- ======================== TECH STACK ====================== -->🛠️ Tech Stack & Developer Tools
-
-💻 Languages
-
-<div align="center">  <img src="https://skillicons.dev/icons?i=js,html,css" alt="JavaScript HTML CSS" width="100%"/></div>🎨 Frontend Development
-
-<div align="center">  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" alt="Frontend technologies" width="100%"/></div>⚙️ Backend Development
-
-<div align="center">  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" width="100%"/></div>🗄️ Database & Tools
-
-<div align="center">  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,npm" alt="Database and developer tools" width="100%"/></div>🤖 AI-Assisted Development
-
-<div align="center">  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/></div>AI-assisted development: Code generation, debugging, problem-solving, and development support.
-
----
-
-<!-- ========================== PROJECTS ====================== -->🚀 Featured Projects
-
-🎵 1. Vibeify — Dynamic Audio Player
-
-<div align="center">  <a href="https://vibeify-ashy.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Explore-Vibeify-7B2FFF?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Explore Vibeify"
-    />
-  </a></div>A music-focused web experience designed around a modern interface and interactive audio-player features.
-
-Focus areas:
-
-- 🎧 Music-player user interface
-- ⚛️ React-based frontend
-- 🎨 Modern visual design
-- 📱 Responsive web experience
-
-Technologies: React.js, JavaScript, HTML, CSS.
-
----
-
-🍔 2. Foodies — Online Food Ordering System
-
-<div align="center">  <a href="https://foodies-frontend-qe7j.onrender.com/">
-    <img
-      src="https://img.shields.io/badge/Explore-Foodies-FF007F?style=for-the-badge&logo=render&logoColor=white"
-      alt="Explore Foodies"
-    />
-  </a></div>A food-ordering web application concept focused on a convenient browsing experience and a user-friendly interface.
-
-Focus areas:
-
-- 🍕 Food browsing experience
-- 🛒 Food-ordering interface
-- 🎨 Modern web design
-- 📱 Responsive layout
-
-Technologies: Web development technologies.
-
----
-
-🌐 3. Personal Developer Portfolio
-
-<div align="center">  <a href="https://sakeel1406.github.io/sakeel-noufas-Portfolio/">
-    <img
-      src="https://img.shields.io/badge/Visit-My%20Portfolio-00BFFF?style=for-the-badge&logo=githubpages&logoColor=white"
-      alt="Visit my portfolio"
-    />
-  </a></div>My personal portfolio showcases my developer profile, technical interests, and web development work.
-
-Focus areas:
-
-- 💻 Developer introduction
-- 🎨 Portfolio presentation
-- 📱 Responsive design
-- ✨ Modern visual elements
-
-Technologies: HTML, CSS, JavaScript, and React.js where implemented.
-
----
-
-<!-- ======================= GITHUB ANALYTICS ================= -->📊 GitHub Analytics
-
-<div align="center"><img
-src="https://github-readme-stats.vercel.app/api?username=Sakeel1406&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF007F&text_color=FFFFFF&rank_icon=github"
-alt="GitHub statistics"
-width="100%"
-/>
-
-<br/><br/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakeel1406&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"
-alt="Most used programming languages"
-width="100%"
-/>
-
-<br/><br/>
-
-<img
-src="https://streak-stats.demolab.com?user=Sakeel1406&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF007F&currStreakLabel=00F7FF"
-alt="GitHub contribution streak"
-width="100%"
-/>
+Passionate about responsive interfaces, full-stack applications, and continuous learning.
 
 </div>---
 
-<!-- ===================== CONTRIBUTION GRAPH ================= -->🐍 Contribution Journey
+<!-- TECH STACK -->"02 // TECHNOLOGY ARSENAL"
 
-<div align="center"><img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Sakeel1406&bg_color=0D1117&color=00F7FF&line=7B2FFF&point=FF007F&area=true&hide_border=true"
-alt="GitHub contribution activity graph"
-width="100%"
-/>
+⚡ Frontend
 
-</div>---
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap" alt="Frontend development skills"/></div>⚙️ Backend & Database
 
-<!-- ====================== ACHIEVEMENTS ====================== -->🏆 GitHub Achievements
+<div align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and database skills"/></div>🛠️ Developer Tools
 
-<div align="center"><img
-src="https://github-profile-trophy.vercel.app/?username=Sakeel1406&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=3"
-alt="GitHub profile trophies"
-width="100%"
-/>
+<div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Developer tools"/></div>🤖 AI-Assisted Development
 
-</div>---
+<div align="center"><img src="https://img.shields.io/badge/ChatGPT-0B0F1A?style=for-the-badge&logo=openai&logoColor=00F7FF" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/Claude-0B0F1A?style=for-the-badge&logo=anthropic&logoColor=FF9B71" alt="Claude"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-0B0F1A?style=for-the-badge&logo=githubcopilot&logoColor=00F7FF" alt="GitHub Copilot"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-0B0F1A?style=for-the-badge&logo=googlegemini&logoColor=8AB4F8" alt="Google Gemini"/></div>---
 
-<!-- ======================= CURRENT FOCUS ==================== -->🎯 What I'm Focusing On
+<!-- PROJECTS -->"03 // SELECTED PROJECTS"
 
-- ⚛️ Improving React.js fundamentals and component design
-- 🔗 Building and integrating REST APIs
-- 🗄️ Working with MongoDB and backend development
-- 🔐 Learning authentication and secure application patterns
-- 📱 Creating responsive, mobile-friendly interfaces
-- 🧠 Strengthening JavaScript problem-solving skills
-- 🤝 Preparing for entry-level software development opportunities
+<div align="center">🎧 VIBEIFY
+
+A modern music-player web experience
+
+<a href="https://vibeify-ashy.vercel.app/">
+  <img src="https://img.shields.io/badge/LAUNCH%20PROJECT-00F7FF?style=for-the-badge&logo=vercel&logoColor=050816&labelColor=050816" alt="Launch Vibeify"/>
+</a><br/><br/>
+
+🍔 FOODIES
+
+A food-ordering web application
+
+<a href="https://foodies-frontend-qe7j.onrender.com/">
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-FF007F?style=for-the-badge&logo=render&logoColor=FFFFFF&labelColor=050816" alt="Explore Foodies"/>
+</a><br/><br/>
+
+🌐 DEVELOPER PORTFOLIO
+
+My personal developer portfolio
+
+<a href="https://sakeel1406.github.io/sakeel-noufas-Portfolio/">
+  <img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-7B2CFF?style=for-the-badge&logo=githubpages&logoColor=FFFFFF&labelColor=050816" alt="Open Portfolio"/>
+</a></div>---
+
+<!-- GITHUB STATS -->"04 // SYSTEM ANALYTICS"
+
+<div align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Sakeel1406&show_icons=true&hide_border=true&bg_color=050816&title_color=00F7FF&icon_color=FF007F&text_color=E6F1FF&rank_icon=github" alt="GitHub statistics"/><br/><br/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakeel1406&layout=compact&hide_border=true&bg_color=050816&title_color=00F7FF&text_color=E6F1FF" alt="Top programming languages"/><br/><br/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Sakeel1406&theme=transparent&hide_border=true&background=050816&ring=00F7FF&fire=FF007F&currStreakLabel=00F7FF&sideLabels=E6F1FF&dates=888888" alt="GitHub streak statistics"/></div>---
+
+<!-- CONTRIBUTIONS -->"05 // CONTRIBUTION MATRIX"
+
+<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakeel1406&bg_color=050816&color=00F7FF&line=7B2CFF&point=FF007F&area=true&hide_border=true" alt="GitHub contribution activity"/></div>---
+
+<!-- CURRENT MISSION -->"06 // CURRENT MISSION"
+
+[ ACTIVE ]  Mastering React.js and JavaScript
+[ ACTIVE ]  Developing full-stack web applications
+[ ACTIVE ]  Improving REST API and database skills
+[ ACTIVE ]  Building responsive user interfaces
+[ ACTIVE ]  Preparing for software developer opportunities
 
 ---
 
-<!-- ======================== CONNECT ========================= -->🤝 Let's Connect
+<!-- CONNECT -->"07 // ESTABLISH CONNECTION"
 
-<div align="center">  <a href="https://github.com/Sakeel1406">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>  <a href="https://www.linkedin.com/in/sakeelnoufas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>  <a href="https://sakeel1406.github.io/sakeel-noufas-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
-  </a>  <a href="mailto:sakeelnoufash@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a></div>---
+<div align="center"><a href="https://github.com/Sakeel1406">
+  <img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/sakeelnoufas/">
+  <img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn"/>
+</a>
+<a href="https://sakeel1406.github.io/sakeel-noufas-Portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-050816?style=for-the-badge&logo=googlechrome&logoColor=FF007F" alt="Portfolio"/>
+</a></div>---
 
-<!-- ========================== QUOTE ========================= --><div align="center">💎 Developer Mindset
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+MESSAGE%3A+KEEP+BUILDING;%3E+EVERY+COMMIT+MOVES+YOU+FORWARD;%3E+THANKS+FOR+VISITING+MY+PROFILE" alt="Cyberpunk closing animation"/><br/><br/>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=7B2FFF&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Improve;Every+Bug+Is+Another+Learning+Opportunity;Turning+Ideas+Into+Web+Experiences"
-alt="Animated developer quotes"
-width="100%"
-/>
-
-  <br/>Thanks for visiting my GitHub profile! 💜
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FFF,100:FF007F&height=120&section=footer"
-width="100%"
-alt="Animated neon footer"
-/>
-
-</div><!-- ========================= END ============================ -->
+<img src="https://komarev.com/ghpvc/?username=Sakeel1406&label=VISITORS&color=00F7FF&style=flat-square" alt="Profile visitors"/><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2CFF,100:FF007F&height=110&section=footer" alt="Neon footer"/></div><!-- END OF NEON CYBERPUNK PROFILE -->
