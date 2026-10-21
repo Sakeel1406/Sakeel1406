@@ -1,78 +1,59 @@
+<!-- ==================== HEADER BANNER ==================== -->
 <div align="center">
-  
-  # Hi there, I'm N.N. Sakeel Noufas 👋
-  ### 🚀 MERN Stack Developer | Frontend Enthusiast | AI Explorer
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF007F&height=200&section=header&text=N.N.%20Sakeel%20Noufas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Full-Stack%20Developer%20%7C%20Frontend%20Specialist%20%7C%20AI%20Workflow%20Innovator&descAlignY=60&descSize=18" width="100%" alt="Header Banner" />
+
+  <!-- ==================== TYPING ANIMATION ==================== -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Passionate+MERN+Full-Stack+Web+Developer+%F0%9F%9A%80;Building+Scalable+React.js+%26+Node.js+Applications+%F0%9F%92%BB;Crafting+Modern%2C+Responsive+UI%2FUX+Experiences+%F0%9F%8E%A8;Accelerating+Development+with+AI+Tools+%26+Workflows+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
+
+  <!-- ==================== SOCIAL & PROFILE BADGES ==================== -->
   <p align="center">
-    <a href="https://sakeel1406.github.io/sakeel-noufas-Portfolio/">
-      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <a href="https://sakeel1406.github.io/sakeel-noufas-Portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-FF007F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://komarev.com/ghpvc/?username=Sakeel1406">
-      <img src="https://komarev.com/ghpvc/?username=Sakeel1406&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <a href="https://github.com/Sakeel1406" target="_blank">
+      <img src="https://img.shields.io/github/followers/Sakeel1406?label=Followers&style=for-the-badge&color=00F7FF&logo=github&logoColor=black" alt="GitHub Followers" />
+    </a>
+    <a href="https://github.com/Sakeel1406" target="_blank">
+      <img src="https://komarev.com/ghpvc/?username=Sakeel1406&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
     </a>
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### ⚡ About Me
 
-- 🌱 **MERN Full-Stack Developer** passionate about building scalable web applications and crafting clean, responsive user interfaces.
-- 💡 Focused on modern **React.js** architectures, RESTful APIs with **Node.js & Express**, and integrating **AI tools** into web workflows.
-- 🎯 Currently building production-ready full-stack projects and exploring AI-assisted development.
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
 
----
+- 🌱 **MERN Full-Stack Developer** specializing in building dynamic, end-to-end web applications from database architecture to pixel-perfect user interfaces.
+- 🎨 Passionate about crafting **modern, responsive frontend experiences** using **React.js, JavaScript (ES6+), HTML5, and CSS3**.
+- ⚙️ Experienced in designing secure **RESTful APIs**, authentication systems, and database schemas using **Node.js, Express.js, MongoDB, and SQL**.
+- 🤖 **AI-Augmented Developer:** Actively leveraging AI tools (**GitHub Copilot, ChatGPT, Claude, Google Gemini**) for rapid prototyping, code optimization, and debugging, with a strong passion for teaching AI workflows.
+- 📍 Based in **Tamil Nadu, India** 🇮🇳 | Open to **Full-Stack & Frontend Developer** opportunities.
 
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-  **Frontend & UI**
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </p>
-
-  **Backend & Database**
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  </p>
-
-  **Deployment, Version Control & AI**
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-    <img src="https://img.shields.io/badge/AI_Tools_&_Prompting-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
-  </p>
-
-</div>
+<br clear="both" />
 
 ---
 
-### 🚀 Featured Projects
+### 💻 Developer Profile (`sakeel.config.js`)
 
-| Project | Description | Live Demo |
-| :--- | :--- | :---: |
-| 🍔 **Foodies** | Full-stack food ordering platform featuring dynamic menus, cart management, and seamless checkout workflows. | [🔗 Live App](https://foodies-frontend-qe7j.onrender.com) |
-| 🎵 **Vibeify** | Interactive web application built with modern frontend architecture and a sleek, responsive UI. | [🔗 Live App](https://vibeify-ashy.vercel.app/) |
-| 💼 **Developer Portfolio** | Personal showcase highlighting my full-stack applications, technical skills, and coding journey. | [🔗 Live Site](https://sakeel1406.github.io/sakeel-noufas-Portfolio/) |
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sakeel1406&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Sakeel's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakeel1406&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakeel1406&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+```javascript
+const developerProfile = {
+  name: "N.N. Sakeel Noufas",
+  role: "MERN Full-Stack & Frontend Developer",
+  education: "B.Sc. in Computational Science",
+  location: "Karur, Tamil Nadu, India",
+  coreStack: ["MongoDB", "Express.js", "React.js", "Node.js"],
+  skills: {
+    languages: ["JavaScript (ES6+)", "HTML5", "CSS3", "SQL"],
+    frontend: ["React.js", "Vite", "Axios", "Responsive Web Design", "Modern CSS"],
+    backend: ["Node.js", "Express.js", "REST APIs", "JWT Authentication", "Stripe API"],
+    databases: ["MongoDB", "Mongoose", "MySQL"],
+    deploymentAndTools: ["Git", "GitHub", "VS Code", "Vercel", "Render", "Cloudinary", "XAMPP"],
+    aiTools: ["GitHub Copilot", "ChatGPT", "Claude", "Google Gemini", "Antigravity"]
+  },
+  interests: ["Full-Stack Architecture", "UI/UX Engineering", "AI Integration", "Teaching AI"],
+  status: "Ready to build impactful software solutions 🚀"
+};
