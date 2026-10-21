@@ -60,7 +60,7 @@
 
 <!-- ====================== DEVELOPER PROFILE ====================== -->
 
-<h2 align="center">⚡ 01 // DEVELOPER PROFILE</h2>
+<h2 align="center">⚡ // DEVELOPER PROFILE</h2>
 
 <div align="center">
 
@@ -77,33 +77,37 @@
 
 <br/>
 
-```
-┌───────────────────────────────────────────────────────┐
-│  DEVELOPER     : SAKEEL NOUFAS                         │
-│  PRIMARY STACK : MERN                                  │
-│  FRONTEND      : HTML / CSS / JAVASCRIPT / REACT       │
-│  BACKEND       : NODE.JS / EXPRESS.JS                  │
-│  DATABASE      : MONGODB / MYSQL                       │
-│  FOCUS         : RESPONSIVE FULL-STACK APPLICATIONS    │
-│  MISSION       : LEARN / BUILD / IMPROVE               │
-└───────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/Frontend-HTML_·_CSS_·_JavaScript_·_React-00F7FF?style=flat-square&labelColor=050816" alt="Frontend"/>
+<br/>
+<img src="https://img.shields.io/badge/Backend-Node.js_·_Express.js-7B2CFF?style=flat-square&labelColor=050816" alt="Backend"/>
+<br/>
+<img src="https://img.shields.io/badge/Database-MongoDB_·_MySQL-FF007F?style=flat-square&labelColor=050816" alt="Database"/>
+<br/>
+<img src="https://img.shields.io/badge/Focus-Responsive_Full--Stack_Apps-00F7FF?style=flat-square&labelColor=050816" alt="Focus"/>
+<br/>
+<img src="https://img.shields.io/badge/Mission-Learn_/_Build_/_Improve-7B2CFF?style=flat-square&labelColor=050816" alt="Mission"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
-I'm a MERN Stack Developer passionate about building modern, responsive, and user-friendly web applications.
+💻&nbsp; Creating interactive frontend experiences &nbsp;•&nbsp; ⚙️&nbsp; Developing backend services and REST APIs
 
-💻 Creating interactive frontend experiences
+🗄️&nbsp; Working with databases and application data &nbsp;•&nbsp; 🎨&nbsp; Exploring modern UI design and animations
 
-⚙️ Developing backend services and REST APIs
+🤖&nbsp; Using AI-assisted development tools &nbsp;•&nbsp; 🚀&nbsp; Continuously improving my development skills
 
-🗄️ Working with databases and application data
+</div>
 
-🎨 Exploring modern UI design and animations
+<div align="center">
 
-🤖 Using AI-assisted development tools to support my workflow
+<br/>
 
-🚀 Continuously improving my development skills
+<i>I'm a MERN Stack Developer passionate about building modern, responsive, and user-friendly web applications.</i>
 
 </div>
 
@@ -111,7 +115,7 @@ I'm a MERN Stack Developer passionate about building modern, responsive, and use
 
 <!-- ====================== TECHNOLOGY ARSENAL ====================== -->
 
-<h2 align="center">🛠️ 02 // TECHNOLOGY ARSENAL</h2>
+<h2 align="center">🛠️ // TECHNOLOGY ARSENAL</h2>
 
 <h3 align="center">⚡ Frontend Development</h3>
 
@@ -183,7 +187,7 @@ I'm a MERN Stack Developer passionate about building modern, responsive, and use
 
 <!-- ====================== FEATURED PROJECTS ====================== -->
 
-<h2 align="center">🚀 03 // FEATURED PROJECTS</h2>
+<h2 align="center">🚀 // FEATURED PROJECTS</h2>
 
 <div align="center">
 
@@ -370,7 +374,7 @@ My personal portfolio showcasing my developer profile, technical skills, selecte
 
 <!-- ====================== GITHUB ANALYTICS ====================== -->
 
-<h2 align="center">📊 04 // GITHUB ANALYTICS</h2>
+<h2 align="center">📊 // GITHUB ANALYTICS</h2>
 
 <div align="center">
 
@@ -416,7 +420,7 @@ My personal portfolio showcasing my developer profile, technical skills, selecte
 
 <!-- ====================== CONTRIBUTION MATRIX ====================== -->
 
-<h2 align="center">⚡ 05 // CONTRIBUTION MATRIX</h2>
+<h2 align="center">⚡ // CONTRIBUTION MATRIX</h2>
 
 <div align="center">
 
@@ -441,7 +445,7 @@ My personal portfolio showcasing my developer profile, technical skills, selecte
 
 <!-- ====================== CURRENT MISSION ====================== -->
 
-<h2 align="center">🎯 06 // CURRENT MISSION</h2>
+<h2 align="center">🎯 // CURRENT MISSION</h2>
 
 <div align="center">
 
@@ -460,7 +464,7 @@ My personal portfolio showcasing my developer profile, technical skills, selecte
 
 <!-- ====================== DEVELOPER PRINCIPLES ====================== -->
 
-<h2 align="center">💡 07 // DEVELOPER PRINCIPLES</h2>
+<h2 align="center">💡 // DEVELOPER PRINCIPLES</h2>
 
 <div align="center">
 
@@ -496,7 +500,7 @@ Learn from mistakes and continuously improve.
 
 <!-- ====================== CONNECT ====================== -->
 
-<h2 align="center">🌐 08 // CONNECT WITH ME</h2>
+<h2 align="center">🌐 // CONNECT WITH ME</h2>
 
 <div align="center">
 
@@ -534,7 +538,7 @@ Learn from mistakes and continuously improve.
 
 <!-- ====================== PROFILE VISITORS ====================== -->
 
-<h2 align="center">👁️ 09 // PROFILE VISITORS</h2>
+<h2 align="center">👁️ // PROFILE VISITORS</h2>
 
 <div align="center">
 
