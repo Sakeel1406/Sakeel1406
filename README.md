@@ -424,11 +424,13 @@ My personal portfolio showcasing my developer profile, technical skills, selecte
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Sakeel1406&bg_color=050816&color=00F7FF&line=7B2CFF&point=FF007F&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY%20GRAPH"
-  width="100%"
-  alt="GitHub Contribution Activity Graph"
-/>
+<a href="https://github.com/Sakeel1406">
+  <img
+    src="https://ghchart.rshah.org/00F7FF/Sakeel1406"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
+</a>
 
 <br/><br/>
 
