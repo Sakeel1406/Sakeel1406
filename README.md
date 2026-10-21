@@ -38,7 +38,7 @@
 
 <!-- ABOUT ME -->
 
-<h2 align="center">⚡ ABOUT ME</h2>
+<h2 align="center">âš¡ ABOUT ME</h2>
 
 <div align="center">
 
@@ -46,11 +46,11 @@ I'm <strong>Sakeel Noufas</strong>, a MERN Stack Developer passionate about buil
 
 <br/><br/>
 
-💻 Frontend Development &nbsp; • &nbsp; ⚙️ Backend Development
+ðŸ’» Frontend Development &nbsp; â€¢ &nbsp; âš™ï¸ Backend Development
 
-🗄️ Database Management &nbsp; • &nbsp; 🎨 Responsive UI
+ðŸ—„ï¸ Database Management &nbsp; â€¢ &nbsp; ðŸŽ¨ Responsive UI
 
-🚀 Always learning and improving my development skills.
+ðŸš€ Always learning and improving my development skills.
 
 </div>
 
@@ -58,9 +58,9 @@ I'm <strong>Sakeel Noufas</strong>, a MERN Stack Developer passionate about buil
 
 <!-- TECH STACK -->
 
-<h2 align="center">🛠️ TECHNOLOGY ARSENAL</h2>
+<h2 align="center">ðŸ› ï¸ TECHNOLOGY ARSENAL</h2>
 
-<h3 align="center">⚡ Frontend Development</h3>
+<h3 align="center">âš¡ Frontend Development</h3>
 
 <div align="center">
 
@@ -68,7 +68,7 @@ I'm <strong>Sakeel Noufas</strong>, a MERN Stack Developer passionate about buil
 
 </div>
 
-<h3 align="center">⚙️ Backend & Database</h3>
+<h3 align="center">âš™ï¸ Backend & Database</h3>
 
 <div align="center">
 
@@ -76,7 +76,7 @@ I'm <strong>Sakeel Noufas</strong>, a MERN Stack Developer passionate about buil
 
 </div>
 
-<h3 align="center">🔧 Developer Tools</h3>
+<h3 align="center">ðŸ”§ Developer Tools</h3>
 
 <div align="center">
 
@@ -84,7 +84,7 @@ I'm <strong>Sakeel Noufas</strong>, a MERN Stack Developer passionate about buil
 
 </div>
 
-<h3 align="center">🤖 AI-Assisted Development</h3>
+<h3 align="center">ðŸ¤– AI-Assisted Development</h3>
 
 <div align="center">
 
@@ -108,7 +108,7 @@ I'm <strong>Sakeel Noufas</strong>, a MERN Stack Developer passionate about buil
 
 <!-- PROJECTS -->
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+<h2 align="center">ðŸš€ FEATURED PROJECTS</h2>
 
 <div align="center">
 
@@ -116,7 +116,7 @@ I'm <strong>Sakeel Noufas</strong>, a MERN Stack Developer passionate about buil
   <tr>
     <td align="center" width="50%">
 
-      <h3>🎵 Vibeify</h3>
+      <h3>ðŸŽµ Vibeify</h3>
 
       A modern music-player web experience.
 
@@ -129,7 +129,7 @@ I'm <strong>Sakeel Noufas</strong>, a MERN Stack Developer passionate about buil
     </td>
     <td align="center" width="50%">
 
-      <h3>🍔 Foodies</h3>
+      <h3>ðŸ” Foodies</h3>
 
       A food-ordering web application.
 
@@ -145,7 +145,7 @@ I'm <strong>Sakeel Noufas</strong>, a MERN Stack Developer passionate about buil
   <tr>
     <td align="center" colspan="2">
 
-      <h3>🌐 Developer Portfolio</h3>
+      <h3>ðŸŒ Developer Portfolio</h3>
 
       Explore my developer profile and web development work.
 
@@ -165,7 +165,7 @@ I'm <strong>Sakeel Noufas</strong>, a MERN Stack Developer passionate about buil
 
 <!-- GITHUB STATISTICS -->
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
+<h2 align="center">ðŸ“Š GITHUB ANALYTICS</h2>
 
 <div align="center">
 
@@ -197,7 +197,7 @@ I'm <strong>Sakeel Noufas</strong>, a MERN Stack Developer passionate about buil
 
 <!-- CONTRIBUTION ACTIVITY -->
 
-<h2 align="center">⚡ CONTRIBUTION ACTIVITY</h2>
+<h2 align="center">âš¡ CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
@@ -213,18 +213,18 @@ I'm <strong>Sakeel Noufas</strong>, a MERN Stack Developer passionate about buil
 
 <!-- CURRENT MISSION -->
 
-<h2 align="center">🎯 CURRENT MISSION</h2>
+<h2 align="center">ðŸŽ¯ CURRENT MISSION</h2>
 
 <div align="center">
 
 | Status | Development Goal |
 |:---:|---|
-| ⚡ | Improving JavaScript and React.js |
-| ⚙️ | Building full-stack applications |
-| 🔗 | Practising REST API integration |
-| 🗄️ | Improving MongoDB skills |
-| 📱 | Creating responsive interfaces |
-| 🚀 | Preparing for software development opportunities |
+| âš¡ | Improving JavaScript and React.js |
+| âš™ï¸ | Building full-stack applications |
+| ðŸ”— | Practising REST API integration |
+| ðŸ—„ï¸ | Improving MongoDB skills |
+| ðŸ“± | Creating responsive interfaces |
+| ðŸš€ | Preparing for software development opportunities |
 
 </div>
 
@@ -232,7 +232,7 @@ I'm <strong>Sakeel Noufas</strong>, a MERN Stack Developer passionate about buil
 
 <!-- CONNECT -->
 
-<h2 align="center">🌐 CONNECT WITH ME</h2>
+<h2 align="center">ðŸŒ CONNECT WITH ME</h2>
 
 <div align="center">
 
@@ -270,7 +270,7 @@ I'm <strong>Sakeel Noufas</strong>, a MERN Stack Developer passionate about buil
 
   <br/><br/>
 
-  <strong>Thanks for visiting my profile! 💜</strong>
+  <strong>Thanks for visiting my profile! ðŸ’œ</strong>
 
   <br/><br/>
 
